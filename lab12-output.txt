@@ -1,0 +1,19 @@
+Script started on 2022-04-15 20:02:37-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="159" LINES="41"]
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab12[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab12[00m$ ./a.[K[K[K[Kg++ -Wall lab12-part1.cc
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab12[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab12[00m$ ./a.out
+Please input an int decimal number: 30
+
+This number in base 2 is: 11110
+This number in base 3 is: 1010
+This number in base 7 is: 42]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab12[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab12[00m$ ./a.outg++ -Wall lab12-part1.cc[K[K[K[K2.cc
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab12[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab12[00m$ g++ -Wall lab12-part2.cc./a.out[K
+Enter a string: go bobcats
+Enter two numbers that are within the bounds of the string.
+3
+7
+This is how your string looks now:
+go acbobts
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab12[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab12[00m$ exit
+exit
+
+Script done on 2022-04-15 20:03:26-04:00 [COMMAND_EXIT_CODE="0"]
